@@ -1,4 +1,4 @@
-class YoudaoRS < Formula
+class YoudaoRs < Formula
     desc "Youdao command-line dictionary written in Rust"
     homepage "https://github.com/hotogwc"
       url "https://youdaocli-swift-1256175899.cos.ap-beijing.myqcloud.com/youdao_rs"
